@@ -1,4 +1,4 @@
-
+#T_seriesをスプライン平滑化し、その曲線を法線方向に1mm押し上げることで、口蓋データを推定。
 
 import os
 import glob
