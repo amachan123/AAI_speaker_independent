@@ -1,3 +1,5 @@
+#これを実行した後に、A_palate_05_head_correction.pyを実行する。
+
 import os
 import pandas as pd
 import numpy as np
