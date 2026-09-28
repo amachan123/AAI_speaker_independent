@@ -27,7 +27,7 @@ OUTPUT_PLOT_FILE = "Data/W0401/palate/palate_contour_spline_plot_1.05_1.5_deUI.p
 OUTPUT_MODEL_FILE = "Data/W0401/palate/palate_contour_spline_1.05_1.5_deUI.pkl"
 
 BIN_STEP_NUM = 1.5    # X軸の区間幅
-SMOOTHING_FACTOR = 10.0  
+SMOOTHING_FACTOR = 10.0  # M0102：15, M0201：14, W0401：10
 
 print("🔄 スプライン平滑化による口蓋輪郭線の抽出を開始します...")
 
